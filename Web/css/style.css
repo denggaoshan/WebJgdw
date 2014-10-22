@@ -1,0 +1,63 @@
+body
+{
+    padding:0px;
+    margin:0px;
+    
+    background-image:url(../images/background.jpg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+
+.wrapper
+{
+    padding:0px;
+    width:1000px;
+    margin:0 auto;
+}
+
+.xmulogo
+{
+    width:600px;
+    margin:0 auto;
+}
+
+.clearfix
+{
+    clear:both;
+}
+
+
+.heightfix_100
+{
+    height:100px;
+}
+
+.roll_img_bottom
+{
+    position:relative;
+    top:-10px;
+}
+
+.content .left
+{
+    margin-left:-25px;
+    margin-top:40px;
+    padding:0px;
+    float:left;
+
+}
+
+.content .mid
+{
+    margin-top:40px;
+    margin-left:22px;
+    float:left;
+
+}
+
+.content .right
+{
+    margin-top:40px;
+    margin-left:22px;
+    float:left;
+}
